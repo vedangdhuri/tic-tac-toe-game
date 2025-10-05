@@ -1,5 +1,5 @@
 <h1 align="left">🧮 Tic Tac Toe Game</h1>
-<h3 align="left">A simple, interactive Tic Tac Toe (X / O) game built with **HTML**, **CSS**, and **JavaScript**. Play against a friend in your browser! This beginner project is perfect for learning basic web development and DOM manipulation.</h3>
+<h3 align="left">A simple, interactive Tic Tac Toe (X / O) game built with HTML, CSS, and JavaScript. Play against a friend in your browser! This beginner project is perfect for learning basic web development and DOM manipulation.</h3>
 
 ## 🚩 Features
 

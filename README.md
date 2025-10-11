@@ -46,4 +46,6 @@
 - Practice HTML structure
 - Style with CSS and customize design
 - Manipulate the DOM with JavaScript (event listeners, state, simple logic)
-- Use basic Git commands for project version control"# tic-tac-toe-game" 
+- Use basic Git commands for project version control"# tic-tac-toe-game"
+
+<!-- Comment 1-->

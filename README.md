@@ -48,4 +48,4 @@
 - Manipulate the DOM with JavaScript (event listeners, state, simple logic)
 - Use basic Git commands for project version control"# tic-tac-toe-game"
 
-<!-- Comment 1, comment 2 -->
+<!-- Comment 1, comment 2, comment 3 -->

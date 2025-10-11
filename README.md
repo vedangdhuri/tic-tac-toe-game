@@ -40,7 +40,7 @@
 - Click the **Restart Button** at any time to reset the board and play again.
 
 ## Screenshot
-![image](https://media.discordapp.net/attachments/905412460503257108/1423393136486387812/Screenshot_2025-10-03_005944.png?ex=68e37169&is=68e21fe9&hm=cde13de47061f8ff788bbe01cb05a7676e7b2f733767a1e8cb261005a62cb893&=&format=webp&quality=lossless)
+![image](https://github.com/vedangdhuri/images/blob/main/game-tic-tac-toe.png?raw=true)
 
 ## 📚 Learning Goals
 - Practice HTML structure

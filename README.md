@@ -1,7 +1,7 @@
 <h1 align="center">Tic Tac Toe Game</h1>
 <div align="center">
    <a href="https://github.com/vedangdhuri/tic-tac-toe-game/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
-   <a href="https://tictactoegamevd.netlify.app/"><img src="https://img.shields.io/badge/View_site-Tic-Tac-Toe_Game-2ea44f?style=for-the-badge" alt="Demo"></a>
+   <a href="https://tictactoegamevd.netlify.app/"><img src="https://img.shields.io/badge/View_site-Tic_Tac_Toe_Game-2ea44f?style=for-the-badge" alt="Demo"></a>
 </div>
 <h3 align="left">A simple, interactive Tic Tac Toe (X / O) game built with HTML, CSS, and JavaScript. Play against a friend in your browser! This beginner project is perfect for learning basic web development and DOM manipulation.</h3>
 

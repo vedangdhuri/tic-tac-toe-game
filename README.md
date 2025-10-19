@@ -1,4 +1,5 @@
 <h1 align="center">Tic Tac Toe Game</h1>
+<a href="./license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License" align="center"></a>
 <h3 align="left">A simple, interactive Tic Tac Toe (X / O) game built with HTML, CSS, and JavaScript. Play against a friend in your browser! This beginner project is perfect for learning basic web development and DOM manipulation.</h3>
 
 ## 🚩 Features

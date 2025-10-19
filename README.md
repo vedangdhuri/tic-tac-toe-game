@@ -1,4 +1,9 @@
-<h1 align="left">🧮 Tic Tac Toe Game</h1>
+<h1 align="center">Tic Tac Toe Game</h1>
+<div>
+   <a href="tictactoegamevd.netlify.app">
+      <img src="https://api.netlify.com/api/v1/badges/0e8a3e0a-c019-4c70-a838-ef672fd5d7c6/deploy-status" alt="netlify">
+   </a>
+</div>
 <h3 align="left">A simple, interactive Tic Tac Toe (X / O) game built with HTML, CSS, and JavaScript. Play against a friend in your browser! This beginner project is perfect for learning basic web development and DOM manipulation.</h3>
 
 ## 🚩 Features
